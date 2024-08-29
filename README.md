@@ -8,7 +8,7 @@ I am currently enrolled in a Master's program at the University of Washington, w
 
 * 🌍  I'm based in Bothell, WA
 * ✉️  You can contact me at [janyanb@uw.edu](mailto:janyanb@uw.edu)
-* 🧠  I'm currently learning Python, JavaScript, C++
+* 🧠  I'm currently learning Python, JavaScript, C#
 * ⚡  I'm looking for Full-Time and Co-Op opportunities
 
 ### Skills
